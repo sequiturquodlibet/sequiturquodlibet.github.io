@@ -1,7 +1,26 @@
 Essays and reflections on various books/articles/etc.
 
+&bull; <a href="#3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)</a><br>
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
+
+<h2 id="3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)<br><sub>February 26, 2026)</sub></h2>
+
+Carson McCullers, best known for <i>The Heart is a Lonely Hunter</i>, seems to have gone out of fashion. Her nondescript style and unassuming plotlines resist the sort of politically-infused literary criticism that is now <i>de rigueur</i>. Perhaps that is McCullers' strength: she never betrays any preachiness. The narration and dialogue are sincere to a fault, and if to the modern reader they come across as sentimental, that only reflects the cynicism of our time.
+
+<i>The Member of the Wedding's</i> protagonist is Frankie, a twelve-year-old tomboy who develops a monomania for her older brother's upcoming wedding. She is determined to join the honeymoon as a third wheel, travelling the world in grand, swashbuckling style as a sidekick to husband and wife. Such naïvete would be rare in today's tweens. But Frankie still lives in the age of soda pop stands and organ grinders with little monkeys on their backs; so we buy the premise, even if it has the air of a fairy tale.
+
+The briefest sketch of the plot will suffice: Frankie runs around her dreary Southern hometown preparing for the wedding, getting her social affairs in order, all with the expectation that she will never return. The big day comes and goes; the newlyweds drive off into the sunset without her. She returns home devastated. This isn't really a spoiler, because it is telegraphed so far in advance. The only person who is shocked is Frankie herself.
+
+These ought to be the ingredients for a girly melodrama. Instead, we get a study in loneliness (a McCullers staple).
+
+Frankie has a simple want: to be included in something that matters, anything. The wedding just so happens to be the nearest prospect. She also doesn't like herself very much, and is old enough to understand that if you don't like yourself, others won't either. Her solution is: become someone else. She renames herself "F. Jasmine," buys a new dress, and manufactures a different, more grown-up personality, with novel opinions and attitudes on Frankie's familiar little world. The third-person narrator treats this overnight transformation seriously, yet nobody else does, least of all the two characters closest to Frankie: the aging maid and the six-year-old boy down the street. The maid thinks Frankie has gone insane and the boy is too simple-minded to perceive much of a change at all.F. Jasmine resents them for it; her resolve to run away strengthens.
+
+In town she meets a soldier out on leave. He mistakes her for a much older girl and invites her on a date. Here, finally, is F. Jasmine's opportunity to soothe her lonesomeness, and more importantly to assert an existence. Not solipsistically, but to others &mdash; which, as she's figured out, is the only kind of existence that carries weight. It all comes out wrong. The things F. Jasmine says and does still resemble the things Frankie would say and do; outside of that, there is little to say or do at all. F. Jasmine <i>qua</i> F. Jasmine is an empty signifier; yes, she <i>could</i> be anyone, but such potentiality is liberating only in the same unhelpful way as retrograde amnesia.
+
+Following her humiliation at the wedding, F. Jasmine undergoes a final transformation; she is now Frances, Frankie's real name. The coming-of-age symbolism here is a bit transparent. What saves it from a cliché is that the narrator, once again, accepts the substitution at face value, so we do, too.
+
+McCullers isn't big on didactics, but if there is a moral to this story, it goes something like this: Your future is constrained by your past, and your identity belongs as much to others as it does to you. Which isn't an empowering or popular sentiment, but which, maybe, is also true.
 
 ----
 <h2 id="2">A Supposedly Fun Thing I'll Never Do Again<sup>1</sup> (David Foster Wallace, 1996)<br><sub>February 24, 2026</sub></h2>
