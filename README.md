@@ -1,5 +1,3 @@
-# quodlibet's reading blog
-
 Essays and reflections on various books/articles/etc.
 
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
