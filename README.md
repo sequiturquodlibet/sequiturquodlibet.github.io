@@ -4,7 +4,7 @@ Essays and reflections on various books/articles/etc.
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
-<h2 id="3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)<br><sub>February 26, 2026)</sub></h2>
+<h2 id="3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)<br><sub>February 26, 2026</sub></h2>
 
 Carson McCullers, best known for <i>The Heart is a Lonely Hunter</i>, seems to have gone out of fashion. Her nondescript style and unassuming plotlines resist the sort of politically-infused literary criticism that is now <i>de rigueur</i>. Perhaps that is McCullers' strength: she never betrays any preachiness. The narration and dialogue are sincere to a fault, and if to the modern reader they come across as sentimental, that only reflects the cynicism of our time.
 
