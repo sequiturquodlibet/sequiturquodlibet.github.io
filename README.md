@@ -2,8 +2,8 @@
 
 Essays and reflections on various books/articles/etc.
 
-&bull; <a href="/README.md#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace)</a><br>
-&bull; <a href="/README.md#1"><i>Babbitt</i> (Sinclair Lewis)</a>
+&bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
+&bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
 ----
 <h2 id="2">A Supposedly Fun Thing I'll Never Do Again<sup>1</sup> (David Foster Wallace, 1996)<br><sub>February 24, 2026</sub></h2>
