@@ -18,7 +18,7 @@ Frankie has a simple want: to be included in something that matters, anything. T
 
 In town she meets a soldier out on leave. He mistakes her for a much older girl and invites her on a date. Here, finally, is F. Jasmine's opportunity to soothe her lonesomeness, and more importantly to assert an existence. Not solipsistically, but to others &mdash; which, as she's figured out, is the only kind of existence that carries weight. It all comes out wrong. The things F. Jasmine says and does still resemble the things Frankie would say and do; outside of that, there is little to say or do at all. F. Jasmine <i>qua</i> F. Jasmine is an empty signifier; yes, she <i>could</i> be anyone, but such potentiality is liberating only in the same unhelpful way as retrograde amnesia.
 
-Following her humiliation at the wedding, F. Jasmine undergoes a final transformation; she is now Frances, Frankie's real name. The coming-of-age symbolism here is a bit transparent. What saves it from a cliché is that the narrator, once again, accepts the substitution at face value, so we do, too.
+Following her humiliation at the wedding, F. Jasmine undergoes a final transformation; she is now Frances, Frankie's legal name. The coming-of-age symbolism here is a bit transparent. What saves it from a cliché is that the narrator, once again, accepts the substitution at face value, so we do, too.
 
 McCullers isn't big on didactics, but if there is a moral to this story, it goes something like this: Your future is constrained by your past, and your identity belongs as much to others as it does to you. Which isn't an empowering or popular sentiment, but which, maybe, is also true.
 
