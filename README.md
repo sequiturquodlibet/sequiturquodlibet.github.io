@@ -1,20 +1,35 @@
 Essays and reflections on various books/articles/etc.
 
+&bull; <a href="#4"><i>Indignation</i> (Philip Roth, 2008)</a><br>
 &bull; <a href="#3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)</a><br>
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
+
+<h2 id="4"><i>Indignation</i> (Philip Roth, 2008)<br><sub>March 2, 2026</sub></h2>
+
+The composer Anton Bruckner wrote nine symphonies, but the joke is to refer to <i>the</i> Bruckner symphony, because they all sound alike, as though he were desperately trying to get one idea out of his head and never quite succeeding. Something similar can be said of Philip Roth's oeuvre. You don't need to read all of his novels; read one or two, and you'll get the gist of the rest.
+
+The basic ingredients of "the" Roth novel are: a Jewish protagonist with an encyclopedia's worth of Freudian neuroses; a domineering, kvetching mother; a blustering but ultimately impotent father; and an appetizing, forbidden <i>shiksa</i> who becomes the object of endless agonizing, regardless of whether the protagonist consummates his desires or not. If this sounds like a list of tired tropes, that's because it is. The measure of quality lies mostly in Roth's ability to either wring out some fresh insight, or &mdash; more frequently &mdash; distort the clichés to such absurd, transgressive dimensions that they become original again. Back in the sixties, Roth proved in <i>Portnoy's Complaint</i> that he could pull this off.
+
+By 2008, Roth is on his twenty-ninth book and the thrill is gone. On my edition of <i>Indignation</i>, Roth's name appears on the front cover in a much larger font than the title itself. This is, I've decided, usually a warning sign of an overrated work.
+
+There are a couple of howlers here that should have never made it past the editor: a multi-page monologue that's little more than a play-by-play of Bertrand Russell's <i>Why I Am Not A Christian</i> (even Ayn Rand did these self-inserts better); a long and utterly irrelevant copy-and-paste from some history book, which the protagonist is reading out loud to help someone fall asleep (hell, the Yellow Pages would have at least had a Rothian, meta-comic effect). The novel's narrator is just a store brand, diet cola version of Alex Portnoy.
+
+The best thing I can say about <i>Indignation</i> is that it is shorter than it looks. In fact, the page margins are suspiciously wide, so I can suspect what happened. The concept for this story might have worked better as a slim novella, but those don't retail very well.
+
+If you want to read Roth, read <i>Portnoy's Complaint</i>. Skip <i>Indignation</i>, and probably most of Roth's later work too. As for Bruckner, the best symphony is the ninth.
 
 <h2 id="3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)<br><sub>February 26, 2026</sub></h2>
 
 Carson McCullers, best known for <i>The Heart is a Lonely Hunter</i>, seems to have gone out of fashion. Her nondescript style and unassuming plotlines resist the sort of politically-infused literary criticism that is now <i>de rigueur</i>. Perhaps that is McCullers' strength: she never betrays any preachiness. The narration and dialogue are sincere to a fault, and if to the modern reader they come across as sentimental, that only reflects the cynicism of our time.
 
-<i>The Member of the Wedding's</i> protagonist is Frankie, a twelve-year-old tomboy who develops a monomania for her older brother's upcoming wedding. She is determined to join the honeymoon as a third wheel, travelling the world in grand, swashbuckling style as a sidekick to husband and wife. Such naïvete would be rare in today's tweens. But Frankie still lives in the age of soda pop stands and organ grinders with little monkeys on their backs; so we buy the premise, even if it has the air of a fairy tale.
+<i>The Member of the Wedding's</i> protagonist is Frankie, a twelve-year-old tomboy who develops a monomania for her older brother's upcoming wedding. She is determined to join the honeymoon as a sidekick, travelling the world in grand, swashbuckling style Such naïvete would be rare in today's tweens. But Frankie still lives in the age of soda pop stands and organ grinders with little monkeys on their backs; so we buy the premise, even if it has the air of a fairy tale.
 
 The briefest sketch of the plot will suffice: Frankie runs around her dreary Southern hometown preparing for the wedding, getting her social affairs in order, all with the expectation that she will never return. The big day comes and goes; the newlyweds drive off into the sunset without her. She returns home devastated. This isn't really a spoiler, because it is telegraphed so far in advance. The only person who is shocked is Frankie herself.
 
 These ought to be the ingredients for a girly melodrama. Instead, we get a study in loneliness (a McCullers staple).
 
-Frankie has a simple want: to be included in something that matters, anything. The wedding just so happens to be the nearest prospect. She also doesn't like herself very much, and is old enough to understand that if you don't like yourself, others won't either. Her solution is: become someone else. She renames herself "F. Jasmine," buys a new dress, and manufactures a different personality with new, "grown-up" opinions and attitudes to Frankie's familiar little world. The third-person narrator takes this overnight transformation seriously, yet nobody else does, least of all the two characters closest to Frankie: the aging maid and the six-year-old boy down the street. The maid thinks Frankie has gone insane and the boy is too simple-minded to perceive much of a change at all.
+Frankie has a simple want: to be included in something that matters, anything. The wedding just so happens to be the nearest prospect. She also doesn't like herself very much, and is old enough to understand that if you don't like yourself, others won't either. Her solution is: become someone else. She renames herself "F. Jasmine," buys a new dress, and manufactures a different personality with new, "grown-up" opinions and attitudes. The third-person narrator takes this overnight transformation seriously, yet nobody else does, least of all the two characters closest to Frankie: the aging maid and the six-year-old boy down the street. The maid thinks Frankie has gone insane and the boy is too simple-minded to perceive much of a change at all.
 
 In town she meets a soldier out on leave. He mistakes her for a much older girl and invites her on a date. Here, finally, is F. Jasmine's opportunity to soothe her lonesomeness, and more importantly to assert an existence. Not solipsistically, but to others &mdash; which, as she's figured out, is the only kind of existence that carries weight. It all comes out wrong. The things F. Jasmine says and does still resemble the things Frankie would say and do; outside of that, there is little to say or do at all. F. Jasmine <i>per se</i> is an empty signifier; yes, she <i>could</i> be anyone, but such potential is liberating in about the same way as retrograde amnesia.
 
@@ -23,7 +38,7 @@ Following her humiliation at the wedding, F. Jasmine undergoes a final transform
 McCullers isn't big on didactics, but if there is a moral to this story, it goes something like this: Your future is constrained by your past, and your identity belongs as much to others as it does to you. Which isn't an empowering or popular sentiment, but which, maybe, is also true.
 
 ----
-<h2 id="2">A Supposedly Fun Thing I'll Never Do Again<sup>1</sup> (David Foster Wallace, 1996)<br><sub>February 24, 2026</sub></h2>
+<h2 id="2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)<sup>1</sup><br><sub>February 24, 2026</sub></h2>
 
 I have a hard time watching David Foster Wallace's interviews. It's not because Wallace is a bad speaker, or because he says the wrong things, or even because of his tragic fate. Rather, it's because Wallace is so transparently, involuntarily earnest that it makes me feel indecent, as though I'm seeing a part of his private inner world I was never supposed to. I wonder if the maximalism of <i>The Broom of the System</i> and <i>Infinite Jest</i> was, in part, Wallace's subconscious attempt to compensate for this transparency; to slide a couple of verbose layers of privacy between himself and his audience.
 
