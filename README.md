@@ -19,6 +19,7 @@ The best thing I can say about <i>Indignation</i> is that it is shorter than it 
 
 If you want to read Roth, read <i>Portnoy's Complaint</i>. Skip <i>Indignation</i>, and probably most of Roth's later work too. As for Bruckner, the best symphony is the ninth.
 
+----
 <h2 id="3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)<br><sub>February 26, 2026</sub></h2>
 
 Carson McCullers, best known for <i>The Heart is a Lonely Hunter</i>, seems to have gone out of fashion. Her nondescript style and unassuming plotlines resist the sort of politically-infused literary criticism that is now <i>de rigueur</i>. Perhaps that is McCullers' strength: she never betrays any preachiness. The narration and dialogue are sincere to a fault, and if to the modern reader they come across as sentimental, that only reflects the cynicism of our time.
