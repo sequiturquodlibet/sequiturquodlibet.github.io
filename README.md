@@ -13,7 +13,7 @@ The basic ingredients of "the" Roth novel are: a Jewish protagonist with an ency
 
 By 2008, Roth is on his twenty-ninth book and the thrill is gone. On my edition of <i>Indignation</i>, Roth's name appears on the front cover in a much larger font than the title itself. This is, I've decided, usually a warning sign of an overrated work.
 
-There are a couple of howlers here that should have never made it past the editor: a multi-page monologue that's little more than a play-by-play of Bertrand Russell's <i>Why I Am Not A Christian</i> (even Ayn Rand did these self-inserts better); a long and utterly irrelevant copy-and-paste from some history book, which the protagonist is reading out loud to help someone fall asleep (quoting the Yellow Pages would have at least had a Rothian, meta-comic effect). The novel's narrator is just a store brand, diet cola version of Alex Portnoy.
+There are a couple of howlers here that should have never made it past the editor: a multi-page monologue that's little more than a play-by-play of Bertrand Russell's <i>Why I Am Not A Christian</i> (even Ayn Rand did these self-inserts better); a long and utterly irrelevant copy-and-paste from some history book, which the protagonist is reading out loud to help someone fall asleep (the telephone directory would have been better &mdash; at least it could have provided a Rothian, meta-comic effect). The novel's narrator is just a store brand, diet cola version of Alex Portnoy.
 
 The best thing I can say about <i>Indignation</i> is that it is shorter than it looks. In fact, the page margins are suspiciously wide, so I can guess what happened. The concept for this story might have worked better as a slim novella, but those don't retail very well.
 
