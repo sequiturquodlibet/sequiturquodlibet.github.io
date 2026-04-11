@@ -1,10 +1,34 @@
 Essays and reflections on various books/articles/etc.
 
+&bull; <a href="#45"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
 &bull; <a href="#4"><i>Indignation</i> (Philip Roth, 2008)</a><br>
 &bull; <a href="#3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)</a><br>
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
+<h2 id="5"><i>We</i> (Evgeny Zamyatin, 1920)<br><sub>April 11, 2026</sub></h2>
+
+<blockquote>"Perfection itself is imperfection." - Attributed to Vladimir Horowitz</blockquote>
+
+It has become a common theme on the right wing, especially online, to associate leftism with chaos: a rebellion against order, a violation of natural equilibria, the weak dominating the strong, "bio-Leninism," and so on. Writing a century ago, Zamyatin suggested the opposite: that leftism is, ultimately, a strivation toward entropy.
+
+<i>We</i> has been compared to <i>1984</i>, and it must have served as an inspiration for Orwell. <i>1984</i>'s Julia is an obvious stand-in for Zamyatin's I-330: a <i>femme fatale</i> who causes the protagonist to doubt his worldview and encourages him into subversion, only for him to betray her in the end. It is debatable which novel is better written, but Zamyatin, writing some 28 years earlier, was clearly the more prescient.
+
+The underlying tension of <i>We</i> is not fully confronted until the third act, when the narrator D-503 and I-330 are about to carry out their insurrectionary plot. D-503 suddenly has second thoughts. Our society (he says) has already reached a state of perfection, of complete order: every citizen's schedule is dictated down the the last minute, to the number of chewing motions in each state-mandated, chemically-manufactured meal. Do we really want to change this? Any subsequent change from a state of perfection can only introduce imperfection. The final revolution has already been won.
+
+The counterargument, given by I-330, is Zamyatin's basic thesis: there can be no such thing as a final revolution, any more than there can be a greatest integer. D-503's values are metaphysically self-destructive. The essence of life is energy, that is, a struggle against entropy. However, a state of the universe wherein no further change is possible, wherein there is no differentiation between individual objects, is a state of heat death. To desire no more change, to desire equality and conformity in its absolute and final form, is to desire the victory of entropy, the extinguishing of life. No, says I-330: as long as there are humans who want to live, there will be monkey wrenches lurking within the Laplacean precision of any utopic machinery. Like children listening to a bedtime story, we will always ask the impertinent question: "What comes after happily ever after?"
+
+It is fitting, then, that the novel ends with the narrator's lobotomization. The government has evidently come to the same conclusion as I-330; at that point, the only tenable solution is to remove the human out of the man.
+
+Zamyatin had the Bolshevik revolutionaries in mind, but I submit that <i>We</i>'s thesis is applicable to any ideology with a "final revolution," in other words a transcendent vision for the human condition &mdash; which encompasses not only world communism, but also Western liberalism, with its belief in moral progress and globalist, Fukuyama-esque notions of the "end of history." Zamyatin's point holds: even if you can attain the stasis of your desired end-state, it will contain the seeds of its own demise.
+
+The solution to this Gordian knot is to meet man where he is; to accept, in Kant's expression, that man is "a crooked timber out of which no straight furniture was ever made," and to adjust our political expectations downward accordingly. Until a few centuries ago, this was the commonly accepted, responsible view of governance and statecraft. The transcendence business was left to the church and to God, who must have it all figured out in the hereafter.
+
+Today, this alternative view has few sincere supporters. We may not be Bolsheviks, yet most of us in the West still share, on an implicit level, D-503's faith in some final revolution, in a man-made heaven on earth, though our heaven is of a more secular sort. A world safe for democracy &mdash; or at least safe for sports betting and streaming subscriptions and the unhindered delivery of plastic lawn chairs.
+
+But that is another essay!
+
+----
 <h2 id="4"><i>Indignation</i> (Philip Roth, 2008)<br><sub>March 2, 2026</sub></h2>
 
 The composer Anton Bruckner wrote nine symphonies, but the joke is to refer to <i>the</i> Bruckner symphony, because they all sound alike, as though he were desperately trying to get one idea out of his head and never quite succeeding. Something similar can be said of Philip Roth's oeuvre. You don't need to read all of his novels; read one or two, and you'll get the gist of the rest.
