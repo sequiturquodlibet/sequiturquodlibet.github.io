@@ -1,12 +1,11 @@
 Essays and reflections on various books/articles/etc.
 
-&bull; <a href="#5"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
-&bull; <a href="#4"><i>Indignation</i> (Philip Roth, 2008)</a><br>
-&bull; <a href="#3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)</a><br>
+&bull; <a href="#4"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
+&bull; <a href="#3"><i>Indignation</i> (Philip Roth, 2008)</a><br>
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
-<h2 id="5"><i>We</i> (Evgeny Zamyatin, 1920)<br><sub>April 11, 2026</sub></h2>
+<h2 id="4"><i>We</i> (Evgeny Zamyatin, 1920)<br><sub>April 11, 2026</sub></h2>
 
 <blockquote>"Perfection itself is imperfection." - Attributed to Vladimir Horowitz</blockquote>
 
@@ -29,7 +28,7 @@ Today, this alternative view has few sincere supporters. We may not be Bolshevik
 But that is another essay!
 
 ----
-<h2 id="4"><i>Indignation</i> (Philip Roth, 2008)<br><sub>March 2, 2026</sub></h2>
+<h2 id="3"><i>Indignation</i> (Philip Roth, 2008)<br><sub>March 2, 2026</sub></h2>
 
 The composer Anton Bruckner wrote nine symphonies, but the joke is to refer to <i>the</i> Bruckner symphony, because they all sound alike, as though he were desperately trying to get one idea out of his head and never quite succeeding. Something similar can be said of Philip Roth's oeuvre. You don't need to read all of his novels; read one or two, and you'll get the gist of the rest.
 
@@ -42,21 +41,6 @@ There are a couple of howlers here that should have never made it past the edito
 The best thing I can say about <i>Indignation</i> is that it is shorter than it looks. In fact, the page margins are suspiciously wide, so I can guess what happened. The concept for this story might have worked better as a slim novella, but those don't retail very well.
 
 If you want to read Roth, read <i>Portnoy's Complaint</i>. Skip <i>Indignation</i>, and probably most of Roth's later work too. As for Bruckner, the best symphony is the ninth.
-
-----
-<h2 id="3"><i>The Member of the Wedding</i> (Carson McCullers, 1946)<br><sub>February 26, 2026</sub></h2>
-
-Carson McCullers, best known for <i>The Heart is a Lonely Hunter</i>, seems to have gone out of fashion. Her nondescript style and unassuming plotlines resist the sort of politically-infused literary criticism that is now <i>de rigueur</i>. The narration and dialogue are sincere to a fault, and if to the modern reader they come across as sentimental, that only reflects the cynicism of our time.
-
-<i>The Member of the Wedding's</i> protagonist is Frankie, a tomboy who develops a monomania for her older brother's upcoming wedding. She is determined to join the honeymoon as a sidekick, travelling the world in grand, swashbuckling style. Such naïvete would be rare in today's kids, but Frankie still lives in the age of soda pop stands and organ grinders with little monkeys on their backs.
-
-Frankie has a simple want: to be included in something that matters, anything. The wedding just so happens to be the nearest prospect. She also doesn't like herself very much, and is old enough to understand that if you don't like yourself, others won't either. Her solution is: become someone else. She renames herself "F. Jasmine," buys a new dress, and manufactures a new "grown-up" personality. Of course, nobody who knows Frankie takes this overnight transformation seriously. Only the third-person narrator is in earnest.
-
-In town she meets a soldier out on leave. He mistakes her for a much older girl and invites her on a date. Here, finally, is F. Jasmine's opportunity to assert an existence. Not merely to herself, but to others &mdash; which, as she's figured out, is the only kind of existence that carries weight. It all comes out wrong. The things F. Jasmine says and does still resemble the things Frankie would say and do; outside of that, there is little to say or do at all. F. Jasmine <i>per se</i> is an empty signifier; yes, she <i>could</i> be anyone, but such potential is liberating in about the same way as retrograde amnesia.
-
-After her brother's wedding, F. Jasmine's hopes are, predictably, crushed. The newlyweds drive off into the sunset by themselves and don't give her a second thought. There is a big tantrum, and then F. Jasmine undergoes a final transformation; she is now Frances, Frankie's legal name. The coming-of-age symbolism here is a bit transparent. What saves it from a cliché is that the narrator, once again, accepts the substitution at face value, so we do, too.
-
-McCullers isn't big on didactics, but if there is a moral to this story, it goes something like this: Your future is constrained by your past, and your identity belongs as much to others as it does to you. Which isn't an empowering or popular sentiment, but which, maybe, is also true.
 
 ----
 <h2 id="2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)<sup>1</sup><br><sub>February 24, 2026</sub></h2>
