@@ -24,7 +24,7 @@ Here Schmitt would ask: "All right, Pyle, but aren't you betraying an internal d
 
 Most of this, of course, takes place in the background. <i>The Quiet American</i> works perfectly well as a more conventional psychological study, or as a low-key thriller. If you like your fiction to be like your history &mdash; with duplicity all around, and no likeable characters &mdash; then this book is for you.
 
-<sup>[1] Two historical examples of this dynamic that come to mind are the diplomatic misfortunes of interwar Poland, and the OAS' experience in Algeria in the early 1960s. For a relevant summary of the latter, I recommend Schmitt's "Theory of the Partisan", pp. 43-47 and 60-64 of the Goodson translation.</sup>
+<sup>[1] One historical example of this dynamic that comes to mind is the OAS' experience in Algeria. For a relevant summary, I recommend Schmitt's "Theory of the Partisan", pp. 43-47 and 60-64 of the Goodson translation.</sup>
 
 ----
 <h2 id="4"><i>We</i> (Evgeny Zamyatin, 1920)<br><sub>April 11, 2026</sub></h2>
