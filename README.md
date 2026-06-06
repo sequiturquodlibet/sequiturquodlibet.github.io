@@ -1,10 +1,32 @@
 Essays and reflections on various books/articles/etc.
 
+&bull; <a href="#5"><i>The Quiet American</i> (Graham Greene, 1955)</a><br>
 &bull; <a href="#4"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
 &bull; <a href="#3"><i>Indignation</i> (Philip Roth, 2008)</a><br>
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
+<h2 id="5"><i>The Quiet American</i> (Graham Greene, 1955)<br><sub>June 5, 2026</sub></h2>
+
+I picked up this novel in a thrift store without knowing much about Greene. The editorial introduction (from 2004, right after the start of the Iraq War) complained that Greene sent the wrong moral message by being too sympathetic to the Viet Minh. This, naturally, made me read the book so I could make up my own mind.
+
+<i>The Quiet American</i> is not really about ideology at the object level, though some of its characters have a lot to say about it. The protagonist is a cynical British reporter named Fowler who is stationed in French Indochina. He insists he is absolutely neutral, that he takes no sides in the ongoing colonial war. As the story unfolds, however, we see that this is a pretense for him to remain emotionally and morally insulated from the horrors he witnesses.
+
+"War is hell" is not exactly an original message, but Greene makes a compelling statement on the impossibility of neutrality. Fowler's very presence, as a European, causes events around him to play out differently than they would have in his absence; when, in a life-or-death situation on the battlefield, he makes a point of not taking any action, that in itself is a choice in favor of inertia, and inertia inevitably benefits one side over the other. And Fowler <i>does</i> have a side; it's just not the communists or the colonialists. No, his side is Team Fowler, and Team Fowler has its own interests: a steady supply of opium, an aversion to bodily discomfort, and access to a certain coy Vietnamese girl. Fowler opportunistically (if unconsciously) aligns himself with whomever will best advance those interests at any given moment.
+
+Curiously, this zero-sum, binary view of politics is a point of agreement between passionate leftists such as Howard Zinn (cf. <i>You Can't Be Neutral on a Moving Train</i>) and the heavily right-coded Carl Schmitt (cf. <i>The Concept of the Political</i>).
+
+I'm old enough to remember George Bush getting on TV and declaring that we're either with him, or with the terrorists. I somehow doubt Dubya read any Schmitt, and one can very reasonably question whether he identified the correct enemy; but at the time, what seemed to bother centrists and liberals the most was his insistence on a duality, that there was no third option.
+
+<i>A Quiet American</i> seems to rub people, including the author of the 2004 introduction, the wrong way for similar reasons. Today we believe colonialism is bad, but we're not too sympathetic with revolutionaries, either. We want a third option. In the novel, this view is voiced by the titular character, a preppy type named Pyle who fervently believes the US can serve as as a so-called "Third Force" capable of extirpating both communism and colonialism in Indochina and replacing it with a safe, bland democracy. When Pyle puts his plans into action through a covert, CIA-style plot, however, the end result is scarcely distinguishable from the terror tactics of the principal belligerents.
+
+Here Schmitt would ask: "All right, Pyle, but aren't you betraying an internal division by declaring more than one enemy simultaneously? Who is the <i>real</i> enemy, the more intractable and fundamental?" Pyle would answer: "Both!" That stubbornness proves to be his undoing. He doesn't have the strength to take them both on, and only gives them a mutual incentive to see him eliminated &mdash; which he is, unceremoniously. Schmitt's law of the excluded political middle holds, and the struggle collapses right back to a binary.<sup>1</sup>
+
+Most of this, of course, takes place within the subtext. <i>The Quiet American</i> works perfectly well as a more conventional psychological study, or as a low-key thriller. If you like your fiction to be like your history &mdash; with duplicity all around, and no likeable characters &mdash; then this book is for you.
+
+<sup>[1] Two historical examples of this dynamic that come to mind are the diplomatic misfortunes of interwar Poland, and the OAS' experience in Algeria in the early 1960s. For a relevant summary of the latter, I recommend Schmitt's "Theory of the Partisan", pp. 43-47 and 60-64 of the Goodson translation.</sup>
+
+----
 <h2 id="4"><i>We</i> (Evgeny Zamyatin, 1920)<br><sub>April 11, 2026</sub></h2>
 
 <blockquote>"Perfection itself is imperfection." - Attributed to Vladimir Horowitz</blockquote>
