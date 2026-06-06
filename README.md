@@ -22,7 +22,7 @@ I'm old enough to remember George Bush getting on TV and declaring that we're ei
 
 Here Schmitt would ask: "All right, Pyle, but aren't you betraying an internal division by declaring more than one enemy simultaneously? Who is the <i>real</i> enemy, the more intractable and fundamental?" Pyle would answer: "Both!" That stubbornness proves to be his undoing. He doesn't have the strength to take them both on, and only gives them a mutual incentive to see him eliminated &mdash; which he is, unceremoniously. Schmitt's law of the excluded political middle holds, and the struggle collapses right back to a binary.<sup>1</sup>
 
-Most of this, of course, takes place within the subtext. <i>The Quiet American</i> works perfectly well as a more conventional psychological study, or as a low-key thriller. If you like your fiction to be like your history &mdash; with duplicity all around, and no likeable characters &mdash; then this book is for you.
+Most of this, of course, takes place in the background. <i>The Quiet American</i> works perfectly well as a more conventional psychological study, or as a low-key thriller. If you like your fiction to be like your history &mdash; with duplicity all around, and no likeable characters &mdash; then this book is for you.
 
 <sup>[1] Two historical examples of this dynamic that come to mind are the diplomatic misfortunes of interwar Poland, and the OAS' experience in Algeria in the early 1960s. For a relevant summary of the latter, I recommend Schmitt's "Theory of the Partisan", pp. 43-47 and 60-64 of the Goodson translation.</sup>
 
