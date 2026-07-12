@@ -19,7 +19,7 @@ Or, in Crane’s words:
 
 <blockquote>"When it occurs to a man that nature does not regard him as important, and that she feels she would not maim the universe by disposing of him, he at first wishes to throw bricks at the temple, and he hates deeply the fact that there are no bricks and no temples. Any visible expression of nature would surely be pelleted with his jeers."</blockquote>
 
-Put yet another way: We have mouths, and we must scream, but there is no one else who could possibly hear us. Whether this sort of absolute loneliness is more horrifying than Harlan Ellison’s formulation, seems to me a toss-up.
+Put yet another way: We have mouths, and we must scream, but our adversary cannot possibly hear us, not even in principle. Whether this sort of absolute loneliness is more horrifying than Harlan Ellison’s formulation, seems to me a toss-up.
 
 As far as the story itself, I don’t have much to say, other than it’s rightfully considered among Crane’s best works. The prose has a modern, almost minimalist feel, which heightens the effect. It’s interesting to contrast this with Joseph Conrad’s <i>Youth</i> which was written a year later and contains very similar themes (viz. struggle for survival at sea). <i>Youth</i>’s narrator is an older man, speaking in retrospect; he is comfortably removed from the past’s misery, and can thus wax poetic. Whatever the reader gains in beauty of prose, is counterbalanced by the loss of immediacy, the “gut punch.” I might go as far as to say that <i>The Open Boat</i> is closer in spirit to Wallace's "A Supposedly Fun Thing", written a century later. There's something timeless about existential dread.
 
