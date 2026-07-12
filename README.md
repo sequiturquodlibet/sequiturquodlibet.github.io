@@ -1,11 +1,31 @@
 Essays and reflections on various books/articles/etc.
 
+&bull; <a href="#6"><i>The Open Boat</i> (Stephen Crane, 1897)</a><br>
 &bull; <a href="#5"><i>The Quiet American</i> (Graham Greene, 1955)</a><br>
 &bull; <a href="#4"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
 &bull; <a href="#3"><i>Indignation</i> (Philip Roth, 2008)</a><br>
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
+<h2 id="6"><i>The Open Boat</i> (Stephen Crane, 1897)<br><sub>July 11, 2026</sub></h2>
+
+A short(ish) autobiographical account of four men on a lifeboat after the sinking of a steamer off the Florida coast.
+
+Stephen Crane, more than perhaps any other American author, fits Cicero’s observation that “the gods love him who dies young;” the other contender being David Foster Wallace, who also had morbid things to say about the sea (as previously discussed <a href="#2">on this blog</a>). The Open Boat is a somewhat more depressing read when one remembers that Crane died not very long after the events described therein. All this struggling for survival in the open water was, in the long run, an exercise in futility &mdash; it only bought him a few more years (although we, the readers, certainly benefit from him having lived to tell this tale). Then again, what was it Keynes said about the long run?
+
+The sea is an obvious metaphor for the existential Nothingness in the same way as outer space: its size, its lethality, its utter indifference to the suffering it causes, or more accurately, <i>not even indifference</i>. There is no “there” there, no discrete entity against whom we could even direct our impotent rage. If King Cnut could have challenged Neptune to a fight, he would have stood on the same playing field with his enemy, no matter how lopsided the outcome, and had the satisfaction of seeing him eye to eye. The defeat would have at least been honorable. But nature &mdash; the cosmos, the demiurge, the singularity, however you want to call it &mdash; is not an honorable opponent. You stand up on the field in your full metaphysical armor, you beat your chest and demand that it show itself, and the next moment you just get snuffed out like a louse underthumb.
+
+Or, in Crane’s words:
+
+<blockquote>"When it occurs to a man that nature does not regard him as important, and that she feels she would not maim the universe by disposing of him, he at first wishes to throw bricks at the temple, and he hates deeply the fact that there are no bricks and no temples. Any visible expression of nature would surely be pelleted with his jeers."</blockquote>
+
+Put yet another way: We have a mouth, and we must scream, but there is no enemy who could possibly hear us. Whether this sort of absolute loneliness is more horrifying than Harlan Ellison’s formulation, seems to me a toss-up.
+
+As far as the story itself, I don’t have much to say, other than it’s rightfully considered among Crane’s best works. The prose has a modern, almost minimalist feel, which heightens the effect. It’s interesting to contrast this with Joseph Conrad’s <i>Youth</i> which was written a year later and contains very similar themes (viz. struggle for survival at sea). <i>Youth</i>’s narrator is an older man, speaking in retrospect; he is comfortably removed from the past’s misery, and can thus wax poetic. Whatever the reader gains in beauty of prose, is counterbalanced by the loss of immediacy, the “gut punch.” I might go as far as to say that <i>The Open Boat</i> is closer in spirit to Wallace's "A Supposedly Fun Thing", written a century later. There's something timeless about existential dread.
+
+Then of course, Conrad was a man of the sea, whereas Crane and Wallace were solidly landlubbers. Perhaps there's an inference to be made there. Are sailors more inured to all this stuff? Or does the sea life select for the metaphysically (as well as the physically) resilient? If you stare long enough into the abyss, do you just … get used to it?
+
+----
 <h2 id="5"><i>The Quiet American</i> (Graham Greene, 1955)<br><sub>June 5, 2026</sub></h2>
 
 I picked up this novel in a thrift store without knowing much about Greene. The editorial introduction (from 2004, right after the start of the Iraq War) complained that Greene sent the wrong moral message by being too sympathetic to the Viet Minh. This, naturally, made me read the book so I could make up my own mind.
