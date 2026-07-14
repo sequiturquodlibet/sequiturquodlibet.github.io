@@ -1,5 +1,6 @@
 Essays and reflections on various books/articles/etc.
 
+&bull; <a href="#7"><i>Less Than Zero</i> (Bret Easton Ellis, 1984)</a><br>
 &bull; <a href="#6"><i>The Open Boat</i> (Stephen Crane, 1897)</a><br>
 &bull; <a href="#5"><i>The Quiet American</i> (Graham Greene, 1955)</a><br>
 &bull; <a href="#4"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
@@ -7,6 +8,34 @@ Essays and reflections on various books/articles/etc.
 &bull; <a href="#2">A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace, 1996)</a><br>
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
+
+<h2 id="7"><i>Less Than Zero</i> (Bret Easton Ellis, 1984)<br><sub>July 14, 2026</sub></h2>
+
+Roughly two hundred pages of monotone narration alternating with vapid '80s teenage dialogue. It's a testament to Ellis' writing ability (or perhaps luck &mdash; he was nineteen when he wrote this) that he made something out of what is, as the title says, less than nothing. I mean, look at this interaction:
+
+<blockquote>
+"Guess who's here?" Rip asks me.<br>
+"Who?"<br>
+"Guess."<br>
+"Who?"<br>
+"Guess."<br>
+"Tell me, Rip."<br>
+</blockquote>
+
+When the character in question is finally introduced, we hardly even care; it's just another arbitrary name that disappears in a couple of scenes, having left no impact on the plot. Actually, there isn't a plot. The entire novel can be summarized as follows: a rich college kid named Clay comes home to Los Angeles over winter break and gets involved in a series of increasingly disturbing, debauched, drug-addled episodes, to which he has no reaction, and which have little causal relationship to one another. Imagine Bukowski's narrators, but lobotomized, and much wealthier; that's pretty much Clay.
+
+Nevertheless, <i>Less Than Zero</i> is more than the negative sum of its parts. It is, perhaps, best understood as an anti-novel: what happens when you remove the entire emotional layer out of life &mdash; drain all the color out of it &mdash; and leave a passive, totally indifferent intellectual capacity, in conjunction with the brainstem? Well, you end up with tanned & toned sacks of meat sitting in air conditioned mansions in front of cable TV, cocaine abuse, and groundbreaking philosophical output like this:
+
+<blockquote>"What's right? If you want something, you have the right to take it. If you want
+to do something, you have the right to do it."</blockquote>
+
+I think it's too narrow to interpret this novel as a critique of the West Coast upper class, as a lot of readers do. If anything, the nihilism and deadness which Ellis portrays are just as applicable to our time. Today the only remaining sin is sincerity: we go to great lengths to hide our feelings under layers of irony and detachment, for fear of being "cringe" or "clingy" or "tryhard" or any other number of epithets. Still feeling the urge to be earnest? Have no fear; drugs and booze will come to the rescue.
+
+We are all Clay now, even those of us who don't have fathers with Ferraris and swimming pools. That's what makes this novel <i>almost</i> worthwhile: sure, there's no real content in it, but that's only because it's holding up a mirror to our own inner lives. In some ways we have it worse. At least Clay is rich and gets to go to wild parties. The modern plebian equivalent is a four-installment payment plan on a burrito, a solo trip to the weed dispensary, and maybe some friends (not the sort that would care about you enough to drive you home from the airport, though) emanating from the pixels of a phone screen.
+
+To be fair, this is a tough kind of environment to write about in any profound or even just artful way. Perhaps that's why we don't, or can't, have another Tolstoy or Hemingway: banality is now embedded into the zeitgeist so deeply that any (realistic) attempt to depict it will also be, on some level, banal. The best I can say about <i>Less than Zero</i> is that it's aware of this limitation, and leans into it rather than pretending to be something bigger.
+
+----
 <h2 id="6"><i>The Open Boat</i> (Stephen Crane, 1897)<br><sub>July 11, 2026</sub></h2>
 
 A short(ish) autobiographical account of four men on a lifeboat after the sinking of a steamer off the Florida coast.
