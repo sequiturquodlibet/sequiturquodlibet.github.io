@@ -1,6 +1,6 @@
 Essays and reflections on various books/articles/etc.
 
-&bull; <a href="#7"><i>Less Than Zero</i> (Bret Easton Ellis, 1984)</a><br>
+&bull; <a href="#7"><i>Less Than Zero</i> (Bret Easton Ellis, 1985)</a><br>
 &bull; <a href="#6"><i>The Open Boat</i> (Stephen Crane, 1897)</a><br>
 &bull; <a href="#5"><i>The Quiet American</i> (Graham Greene, 1955)</a><br>
 &bull; <a href="#4"><i>We</i> (Evgeny Zamyatin, 1920)</a><br>
@@ -9,7 +9,7 @@ Essays and reflections on various books/articles/etc.
 &bull; <a href="#1"><i>Babbitt</i> (Sinclair Lewis, 1922)</a>
 
 
-<h2 id="7"><i>Less Than Zero</i> (Bret Easton Ellis, 1984)<br><sub>July 14, 2026</sub></h2>
+<h2 id="7"><i>Less Than Zero</i> (Bret Easton Ellis, 1985)<br><sub>July 14, 2026</sub></h2>
 
 Roughly two hundred pages of monotone narration alternating with vapid '80s teenage dialogue. It's a testament to Ellis' writing ability (or perhaps luck &mdash; he was nineteen when he wrote this) that he made something out of what is, as the title says, less than nothing. I mean, look at this interaction:
 
